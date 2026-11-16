@@ -13,3 +13,7 @@ What I did: basic navigation
 Command that solved it: ls, cd, pwd, mkdir, touch, mv, cp, rm, rmdir
 Things I've learned: "cd -" - open previous directory I've worked in, rmdir - remove directory(only for the empty dir), man (and command ls for example) - manual of the command, apropos (and parameter list for example) - provide commands where the parameter used, tldr (and command ls for example) - print command and parameters and documantation, type (and command ls for example) - check whether the command is builtin the system.
 
+Date:16.11.2026
+What I did: changed timezone, user password, practising with sudo command
+Command that solved it:
+Things I've learned: timedatectl - command to change the timezone, passwd - command to change the password, hostnamectl - command to chenge the hostname, sudo - command to execute something like the super user
